@@ -3,6 +3,9 @@
 ## Overview
 This contract manages AI-related submissions, allowing users to submit data for processing, store results, and manage submissions.
 
+## Social
+touch me https://linktr.ee/pichtran
+
 ## Structures
 
 ### Submission
