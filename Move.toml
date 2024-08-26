@@ -1,0 +1,14 @@
+[package]
+name = "aptos_ai"
+version = "1.0.0"
+authors = []
+
+[addresses]
+ai_contract = "0xDAO"
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "testnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
